@@ -82,27 +82,27 @@ Redis
 
 ![角色管理.jpg](static-image/角色管理.jpg)
 
-![字典管理·.jpg](static-image%2F%E5%AD%97%E5%85%B8%E7%AE%A1%E7%90%86%C2%B7.jpg)
+![字典管理·.jpg](static-image/字典管理·.jpg)
 
-![字典类型管理.jpg](static-image%2F%E5%AD%97%E5%85%B8%E7%B1%BB%E5%9E%8B%E7%AE%A1%E7%90%86.jpg)
+![字典类型管理.jpg](static-image/字典类型管理.jpg)
 
-![部门管理.jpg](static-image%2F%E9%83%A8%E9%97%A8%E7%AE%A1%E7%90%86.jpg)
+![部门管理.jpg](static-image/部门管理.jpg)
 
-![岗位管理.jpg](static-image%2F%E5%B2%97%E4%BD%8D%E7%AE%A1%E7%90%86.jpg)
+![岗位管理.jpg](static-image/岗位管理.jpg)
 
-![通知公告.jpg](static-image%2F%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A.jpg)
+![通知公告.jpg](static-image/通知公告.jpg)
 
-![登录日志.jpg](static-image%2F%E7%99%BB%E5%BD%95%E6%97%A5%E5%BF%97.jpg)
+![登录日志.jpg](static-image/登录日志.jpg)
 
-![操作日志.jpg](static-image%2F%E6%93%8D%E4%BD%9C%E6%97%A5%E5%BF%97.jpg)
+![操作日志.jpg](static-image/操作日志.jpg)
 
-![在线用户.jpg](static-image%2F%E5%9C%A8%E7%BA%BF%E7%94%A8%E6%88%B7.jpg)
+![在线用户.jpg](static-image/在线用户.jpg)
 
-![服务监控.jpg](static-image%2F%E6%9C%8D%E5%8A%A1%E7%9B%91%E6%8E%A7.jpg)
+![服务监控.jpg](static-image/服务监控.jpg)
 
-![缓存监控.jpg](static-image%2F%E7%BC%93%E5%AD%98%E7%9B%91%E6%8E%A7.jpg)
+![缓存监控.jpg](static-image/缓存监控.jpg)
 
-![设置页.jpg](static-image%2F%E8%AE%BE%E7%BD%AE%E9%A1%B5.jpg)
+![设置页.jpg](static-image/设置页.jpg)
 
 
 
